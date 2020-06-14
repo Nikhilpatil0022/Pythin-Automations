@@ -1,2 +1,2 @@
-# Pythin-Automations
+# Python-Automations
 Automation scripts on python
